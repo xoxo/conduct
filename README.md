@@ -59,8 +59,8 @@ For issues in the XOXO Slack, use the "/mods" command to send a private message 
 
 If the person who is harassing you is a volunteer or member of staff, they will recuse themselves from handling your incident. All reports will be handled in the strictest confidence. We will respond as promptly as we can.
 
-## Credits
-
-This policy was based on resources provided by [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/), and borrows heavily from similar open source policies authored by [JSConf AU](https://2018.jsconfau.com/code-of-conduct) and [Django](https://www.djangoproject.com/conduct/). Thank you also to [Ashe Dryden](https://www.ashedryden.com/) and [Karolina Szczur](https://thefox.is/) for their advice and support.
+## License
 
 This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/conduct). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
+
+This policy was based on resources provided by [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/), and borrows heavily from similar open source policies authored by [JSConf AU](https://2018.jsconfau.com/code-of-conduct) and [Django](https://www.djangoproject.com/conduct/). Thank you also to [Ashe Dryden](https://www.ashedryden.com/) and [Karolina Szczur](https://thefox.is/) for their advice and support.
