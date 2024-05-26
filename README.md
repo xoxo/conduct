@@ -1,3 +1,5 @@
+# Code Of Conduct
+
 **This is a living policy, subject to continual refinement and expansion. Last updated May 26, 2024**.
 
 Everyone participating in the XOXO community, including the XOXO Festival and XOXO Slack channel, is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
