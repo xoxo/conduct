@@ -4,7 +4,7 @@
 
 Everyone participating in the XOXO community, including the XOXO Festival and XOXO Slack channel, is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
 
-Anyone who violates this Code of Conduct may be removed from these spaces at the discretion of the XOXO organizers.
+Anyone who violates our Code of Conduct may be removed from these spaces at the discretion of the XOXO organizers.
 
 If you have questions about this policy, or suggestions for ways it might be improved, please contact us at [hi@xoxofest.com](mailto:hi@xoxofest.com).
 
