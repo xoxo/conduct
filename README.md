@@ -1,12 +1,12 @@
 # Code of Conduct
 
-**This policy is a living document, and subject to refinement and expansion in the future. Last updated May 16, 2024.**
+**This is a living policy, subject to continual refinement and expansion. Last updated May 26, 2024**.
 
-Everyone participating in XOXO—including, but not limited to the XOXO festival and community Slack channel—is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
+Everyone participating in the XOXO community, including the XOXO Festival and XOXO Slack channel, is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
 
 Anyone who violates this Code of Conduct may be removed from these spaces at the discretion of the XOXO organizers.
 
-## About This Policy
+If you have questions about this policy, or suggestions for ways it might be improved, please contact us at [hi@xoxofest.com](mailto:hi@xoxofest.com).
 
 XOXO is committed to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
 
@@ -47,7 +47,7 @@ If a participant engages in harassing behavior, XOXO may take any action we deem
 
 ## Reporting and Enforcement
 
-If you are being harassed by a member of the XOXO community, notice that someone else is being harassed, or have any other concerns related to this Code of Conduct, please contact us immediately via email at [hi@xoxofest.com](mailto:hi@xoxofest.com).
+If you are being harassed by a member of the XOXO community, notice that someone else is being harassed, or have any other concerns related to this Code of Conduct, please contact us at [hi@xoxofest.com](mailto:hi@xoxofest.com).
 
 ### Festival
 
@@ -57,13 +57,11 @@ Please contact any member of our production, volunteer or security team. Our tea
 
 For issues in the XOXO Slack, use the "/mods" command to send a private message to the moderation team. Moderators are designated with a red diamond emoji “♦️” in their status.
 
-If the person who is harassing you is a member of staff, they will recuse themselves from handling your incident. All reports will be handled in the strictest confidence. We will respond as promptly as we can.
+If the person who is harassing you is a volunteer or member of staff, they will recuse themselves from handling your incident. All reports will be handled in the strictest confidence. We will respond as promptly as we can.
 
 ## Credits
 
-This policy was based on resources provided by [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/), and borrows heavily from similar open source policies authored by [JSConf AU](https://2018.jsconfau.com/code-of-conduct) and [Django](https://www.djangoproject.com/conduct/).
-
-Thank you also to [Ashe Dryden](https://www.ashedryden.com/) and [Karolina Szczur](https://thefox.is/) for their advice and support.
+This policy was based on resources provided by [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/), and borrows heavily from similar open source policies authored by [JSConf AU](https://2018.jsconfau.com/code-of-conduct) and [Django](https://www.djangoproject.com/conduct/). Thank you also to [Ashe Dryden](https://www.ashedryden.com/) and [Karolina Szczur](https://thefox.is/) for their advice and support.
 
 This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/conduct). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
 
