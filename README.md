@@ -1,6 +1,6 @@
 # Code Of Conduct
 
-**Please note: Our Code of Conduct was last updated for XOXO 2024 and is no longer being developed.**.
+**Please note: Our Code of Conduct was last updated for XOXO 2024 and is no longer being developed.**
 
 Everyone participating in the XOXO community, including the XOXO Festival and XOXO Slack channel, is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
 
